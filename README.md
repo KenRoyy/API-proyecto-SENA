@@ -86,3 +86,5 @@ para correr el script "dev" debes abrir la terminal "powershell" o "cmd" y escri
 Para testear la api se suguiere realizarlo con postman.
 
 ### Archivos y carpetas importantes 
+Archivo index.js: es el archivo mas importante aqui va la logica de la api
+Carpeta routes: esta carpeta se encarga del todos los endpoints
